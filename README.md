@@ -23,7 +23,7 @@ This project is an end-to-end Fake News Detection system built using **Natural L
 
 1. Clone this repo:
    
-   git clone https://github.com/afrin2315/fake-news-detection.git
+   git clone https://github.com/Zameer-7/fake-news-detection.git
    cd fake-news-detection
 
 2. Install requirements:
